@@ -1,12 +1,7 @@
 # Course Schedule
 
-## Location
-
-**Room:** 135
-
-## Weekly Schedule
-
-| **Day**    | **Class Hours** | **Hours** |
-| ---------- | -------------- | ------------------ |
-| **Friday** | 7-8 hours      | TBD               |
+| **Day**    | **Room**  | **Class Hours** | **UTC Class Hours** |
+| ---------- | ------- | -------------- | ------------------ |
+| **Monday** | 243 (Lecture)  | 5-6  | TBD               |
+|           | 111 (Practice) | 7-8  | TBD               |
 
